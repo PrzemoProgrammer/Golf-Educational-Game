@@ -1,6 +1,6 @@
 @font-face {
     font-family: teko;
-    src: url(../teko.ttf) format("truetype")
+src: url(../teko.ttf) format("truetype")
 }
 
 * {
